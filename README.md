@@ -26,4 +26,4 @@ Adobe Illustrator用スクリプト。開いているドキュメントをレイ
 * 動作後、レイヤの表示状態を復元したい。[#1](https://github.com/naichilab/illustrator-save-for-each-layer/issues/1)  
 現状はすべて表示状態になる。
 
-* 保存対象レイヤを選択したい。[#2](https://github.com/naichilab/illustrator-save-for-each-layer/issues/1)
+* 保存対象レイヤを選択したい。[#2](https://github.com/naichilab/illustrator-save-for-each-layer/issues/2)
